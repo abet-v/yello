@@ -1,0 +1,7 @@
+{
+  "name": "yello",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
